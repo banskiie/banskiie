@@ -48,23 +48,6 @@
 
 ---
 
-## 🧩 Projects
-
-### 🛒 Company Website with Tournament Registration
-- Built using MERN + Next.js + GraphQL  
-- Apollo Server + Apollo Client architecture  
-- Real-time updates using PusherJS & GraphQL Subscriptions  
-- UI powered by shadcn/ui + Tailwind  
-- Optimized for fast transactions and concurrent users  
-
-### 🌐 Web Applications
-- Full-stack responsive apps with scalable architecture  
-- GraphQL + REST hybrid APIs  
-- Efficient state & data handling with Apollo Client  
-- Clean, reusable UI components  
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: ivansinohon28@gmail.com  
 - 💼 Linkedin: https://www.linkedin.com/in/ivan-sinohon-751849267/
