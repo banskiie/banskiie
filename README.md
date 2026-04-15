@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Sinohon
 
-💻 Full Stack Developer | MERN • Next.js • GraphQL • Typescript
+💻 Full Stack Developer | MERN • Next.js • Apollo GraphQL • Typescript
 📍 Cagayan de Oro, Philippines  
 ⚡ Building scalable apps, clean APIs, and real-time systems
 
