@@ -23,7 +23,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000)
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-000?&logo=apollographql)
 
 ### 🧠 Backend
