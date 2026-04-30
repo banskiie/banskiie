@@ -50,6 +50,7 @@
 ## 📫 Connect With Me
 - 📧 Email: ivansinohon28@gmail.com  
 - 💼 Linkedin: https://www.linkedin.com/in/ivan-sinohon-751849267/
+- 🌐 Porffolio: https://shandthedev.vercel.app/
 
 ---
 
